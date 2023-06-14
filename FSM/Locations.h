@@ -1,0 +1,14 @@
+#ifndef LOCATIONS_H
+#define LOCATIONS_H
+
+enum location_type
+{
+	BEDROOM,
+	LIBRARY,
+	QUIDDITCH_PITCH,
+	PRACTICE_RANGE,
+	BATTLEFIELD,
+	WITCHES_CAULDRON,
+};
+
+#endif
