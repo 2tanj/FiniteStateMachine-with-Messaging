@@ -1,2 +1,4 @@
 C:\Users\2Tanj\source\repos\WestWorldWithWoman\Debug\WestWorldWithWomen.exe
 C:\Users\2Tanj\source\repos\WestWorldWithWoman\Debug\WestWorldWithWomen.pdb
+I:\FAKS\CS430\FSM with Messaging\FiniteStateMachine-with-Messaging\Debug\WestWorldWithWomen.exe
+I:\FAKS\CS430\FSM with Messaging\FiniteStateMachine-with-Messaging\Debug\WestWorldWithWomen.pdb
